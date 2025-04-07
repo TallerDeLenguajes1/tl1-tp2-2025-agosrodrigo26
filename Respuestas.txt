@@ -1,0 +1,1 @@
+El archivo tp2_1_2.c no aparece en la rama main ya que el archivo fue creado en la rama Opcion_2, una rama aparte al main, al crear el archivo en Opcion_2 el archivo solo existe en esa rama. Los archivos de cada rama no afectan a las otras. 
