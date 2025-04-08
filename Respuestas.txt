@@ -1,1 +1,5 @@
 El archivo tp2_1_2.c no aparece en la rama main ya que el archivo fue creado en la rama Opcion_2, una rama aparte al main, al crear el archivo en Opcion_2 el archivo solo existe en esa rama. Los archivos de cada rama no afectan a las otras. 
+
+Diferencias 
+La diferencia en el Source Control de Visual Studio Code es que se genera una especie de rama unida al commit "Genera numeros aleatorios"
+Al ingresar el comando "git merge -m Opcion_2 "merge Opcion_2" la rama Opcion_2 se une junto con los contenidos de la rama main.
